@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OwaisMohd
+- 👋 Hi, I’m Mohammad Owais
 - 👀 I’m interested in Android, Kotlin, Java
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on different projects
